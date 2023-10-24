@@ -56,6 +56,8 @@
 	}
 </script>
 
+
+<!-- 样式定义 -->
 <style scoped>
 	.bottom-container {
 		width: 100%;
